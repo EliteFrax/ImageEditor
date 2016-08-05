@@ -1,0 +1,10 @@
+TODO>
+
+	-deteccion de bordes *investigar "canny edge detector algorithm"	
+	-desenfoque box														|OK|
+	-desenfoque radial *investigar box blur*							|ALMOST|
+	-filtro sepia (variacion en luma del 6)								
+	-vignette															
+	-old school vignette												
+	-composite (image blend)											
+	-
